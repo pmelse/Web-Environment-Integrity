@@ -1,3 +1,8 @@
+This entire project lacks tegrity.
+
+I've forked it here for posterity only.
+
+
 # Web Environment Integrity API
 
 This repository details the proposal to add a new API for determining the integrity
